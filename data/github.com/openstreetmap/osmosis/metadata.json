@@ -1,0 +1,8 @@
+{
+  "name": "osmosis",
+  "fullName": "openstreetmap/osmosis",
+  "authorUrl": "https://github.com/openstreetmap",
+  "author": "openstreetmap",
+  "title": "openstreetmap/osmosis; Osmosis is a command line Java application for processing OSM data.",
+  "licence": ""
+}

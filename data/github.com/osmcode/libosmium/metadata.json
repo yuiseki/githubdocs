@@ -1,0 +1,8 @@
+{
+  "name": "libosmium",
+  "fullName": "osmcode/libosmium",
+  "authorUrl": "https://github.com/osmcode",
+  "author": "osmcode",
+  "title": "osmcode/libosmium; Fast and flexible C++ library for working with OpenStreetMap data.",
+  "licence": ""
+}

@@ -1,0 +1,8 @@
+{
+  "name": "geoipupdate",
+  "fullName": "maxmind/geoipupdate",
+  "authorUrl": "https://github.com/maxmind",
+  "author": "maxmind",
+  "title": "maxmind/geoipupdate; GeoIP update client code",
+  "licence": ""
+}
