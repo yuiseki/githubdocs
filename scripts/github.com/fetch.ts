@@ -6,7 +6,10 @@ dotenv.config();
 const sleep = (msec: number) =>
   new Promise((resolve) => setTimeout(resolve, msec));
 
-const urlsFile = await fs.readFile("data/github.com/list.txt", "utf-8");
+const urlsFile = await fs.readFile(
+  "./public/data/github.com/list.txt",
+  "utf-8",
+);
 const urls = urlsFile.split("\n");
 console.info(urls.length);
 
@@ -39,7 +42,7 @@ for await (const url of urls) {
     try {
       try {
         const alreadyFetched = (
-          await fs.lstat(`./data/github.com/${path}/README.md`)
+          await fs.lstat(`./public/data/github.com/${path}/README.md`)
         ).isFile();
         if (alreadyFetched) {
           continue;
@@ -100,8 +103,14 @@ for await (const url of urls) {
     await fs.mkdir(`./data/github.com/${path}/`, {
       recursive: true,
     });
-    await fs.writeFile(`./data/github.com/${path}/README.md`, readMeContent);
-    await fs.writeFile(`./data/github.com/${path}/metadata.json`, metadataJson);
+    await fs.writeFile(
+      `./public/data/github.com/${path}/README.md`,
+      readMeContent,
+    );
+    await fs.writeFile(
+      `./public/data/github.com/${path}/metadata.json`,
+      metadataJson,
+    );
 
     console.log();
   } catch (error) {

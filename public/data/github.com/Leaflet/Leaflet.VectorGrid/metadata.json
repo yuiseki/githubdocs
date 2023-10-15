@@ -1,0 +1,8 @@
+{
+  "name": "Leaflet.VectorGrid",
+  "fullName": "Leaflet/Leaflet.VectorGrid",
+  "authorUrl": "https://github.com/Leaflet",
+  "author": "Leaflet",
+  "title": "Leaflet/Leaflet.VectorGrid; Display gridded vector data (sliced GeoJSON or protobuf vector tiles) in Leaflet 1.0.0",
+  "licence": ""
+}

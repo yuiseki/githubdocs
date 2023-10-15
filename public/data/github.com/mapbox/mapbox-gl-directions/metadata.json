@@ -1,0 +1,8 @@
+{
+  "name": "mapbox-gl-directions",
+  "fullName": "mapbox/mapbox-gl-directions",
+  "authorUrl": "https://github.com/mapbox",
+  "author": "mapbox",
+  "title": "mapbox/mapbox-gl-directions; Directions plugin for mapbox-gl-js using Mapbox Directions API.",
+  "licence": ""
+}

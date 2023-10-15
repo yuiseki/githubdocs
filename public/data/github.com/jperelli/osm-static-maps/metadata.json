@@ -1,0 +1,8 @@
+{
+  "name": "osm-static-maps",
+  "fullName": "jperelli/osm-static-maps",
+  "authorUrl": "https://github.com/jperelli",
+  "author": "jperelli",
+  "title": "jperelli/osm-static-maps; Openstreetmap static maps is a nodejs lib, CLI and server open source inspired on google static map service",
+  "licence": ""
+}

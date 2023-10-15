@@ -1,8 +1,0 @@
-{
-  "name": "overpass-frontend",
-  "fullName": "plepe/overpass-frontend",
-  "authorUrl": "https://github.com/plepe",
-  "author": "plepe",
-  "title": "plepe/overpass-frontend; A JavaScript (NodeJS/Browser) library to easily access data from OpenStreetMap via Overpass API or from an OSM File. The objects can directly be used with LeafletJS or exported to GeoJSON. Data will be cached in the browser memory.",
-  "licence": ""
-}

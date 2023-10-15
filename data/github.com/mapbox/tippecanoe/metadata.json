@@ -1,8 +1,0 @@
-{
-  "name": "tippecanoe",
-  "fullName": "mapbox/tippecanoe",
-  "authorUrl": "https://github.com/mapbox",
-  "author": "mapbox",
-  "title": "mapbox/tippecanoe; Build vector tilesets from large collections of GeoJSON features.",
-  "licence": ""
-}

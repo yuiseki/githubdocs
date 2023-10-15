@@ -1,8 +1,0 @@
-{
-  "name": "harp.gl",
-  "fullName": "heremaps/harp.gl",
-  "authorUrl": "https://github.com/heremaps",
-  "author": "heremaps",
-  "title": "heremaps/harp.gl; 3D web map rendering engine written in TypeScript using three.js",
-  "licence": ""
-}

@@ -1,8 +1,0 @@
-{
-  "name": "planetiler",
-  "fullName": "onthegomap/planetiler",
-  "authorUrl": "https://github.com/onthegomap",
-  "author": "onthegomap",
-  "title": "onthegomap/planetiler; Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast",
-  "licence": ""
-}

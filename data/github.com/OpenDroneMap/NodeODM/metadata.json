@@ -1,8 +1,0 @@
-{
-  "name": "NodeODM",
-  "fullName": "OpenDroneMap/NodeODM",
-  "authorUrl": "https://github.com/OpenDroneMap",
-  "author": "OpenDroneMap",
-  "title": "OpenDroneMap/NodeODM; A lightweight REST API to access aerial image processing engines such as ODM or MicMac",
-  "licence": ""
-}

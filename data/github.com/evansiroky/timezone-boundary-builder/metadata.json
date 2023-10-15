@@ -1,8 +1,0 @@
-{
-  "name": "timezone-boundary-builder",
-  "fullName": "evansiroky/timezone-boundary-builder",
-  "authorUrl": "https://github.com/evansiroky",
-  "author": "evansiroky",
-  "title": "evansiroky/timezone-boundary-builder; A tool to extract data from Open Street Map (OSM) to build the boundaries of the world's timezones.",
-  "licence": ""
-}

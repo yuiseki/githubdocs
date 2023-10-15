@@ -1,8 +1,0 @@
-{
-  "name": "maplibre-gl-legend",
-  "fullName": "watergis/maplibre-gl-legend",
-  "authorUrl": "https://github.com/watergis",
-  "author": "watergis",
-  "title": "watergis/maplibre-gl-legend; This module adds legend control which is able to create legend panel from mapbox style to maplibre-gl-legend",
-  "licence": ""
-}

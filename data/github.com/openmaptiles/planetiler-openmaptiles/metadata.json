@@ -1,8 +1,0 @@
-{
-  "name": "planetiler-openmaptiles",
-  "fullName": "openmaptiles/planetiler-openmaptiles",
-  "authorUrl": "https://github.com/openmaptiles",
-  "author": "openmaptiles",
-  "title": "openmaptiles/planetiler-openmaptiles; OpenMapTiles Vector Tile Schema implementation in Java for Planetiler tool",
-  "licence": ""
-}

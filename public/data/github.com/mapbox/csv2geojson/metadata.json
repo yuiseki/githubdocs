@@ -1,0 +1,8 @@
+{
+  "name": "csv2geojson",
+  "fullName": "mapbox/csv2geojson",
+  "authorUrl": "https://github.com/mapbox",
+  "author": "mapbox",
+  "title": "mapbox/csv2geojson; magically convert csv files to geojson files",
+  "licence": ""
+}

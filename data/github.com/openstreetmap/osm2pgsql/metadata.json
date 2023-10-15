@@ -1,8 +1,0 @@
-{
-  "name": "osm2pgsql",
-  "fullName": "osm2pgsql-dev/osm2pgsql",
-  "authorUrl": "https://github.com/osm2pgsql-dev",
-  "author": "osm2pgsql-dev",
-  "title": "osm2pgsql-dev/osm2pgsql; OpenStreetMap data to PostgreSQL converter",
-  "licence": ""
-}

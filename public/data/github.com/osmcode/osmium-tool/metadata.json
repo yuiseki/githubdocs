@@ -1,0 +1,8 @@
+{
+  "name": "osmium-tool",
+  "fullName": "osmcode/osmium-tool",
+  "authorUrl": "https://github.com/osmcode",
+  "author": "osmcode",
+  "title": "osmcode/osmium-tool; Command line tool for working with OpenStreetMap data based on the Osmium library.",
+  "licence": ""
+}

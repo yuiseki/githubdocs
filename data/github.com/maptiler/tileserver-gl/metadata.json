@@ -1,8 +1,0 @@
-{
-  "name": "tileserver-gl",
-  "fullName": "maptiler/tileserver-gl",
-  "authorUrl": "https://github.com/maptiler",
-  "author": "maptiler",
-  "title": "maptiler/tileserver-gl; Vector and raster maps with GL styles. Server side rendering by MapLibre GL Native. Map tile server for MapLibre GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.",
-  "licence": ""
-}

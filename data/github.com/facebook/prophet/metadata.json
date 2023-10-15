@@ -1,8 +1,0 @@
-{
-  "name": "prophet",
-  "fullName": "facebook/prophet",
-  "authorUrl": "https://github.com/facebook",
-  "author": "facebook",
-  "title": "facebook/prophet; Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
-  "licence": ""
-}

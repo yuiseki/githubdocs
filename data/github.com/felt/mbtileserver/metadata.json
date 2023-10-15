@@ -1,8 +1,0 @@
-{
-  "name": "mbtileserver",
-  "fullName": "felt/mbtileserver",
-  "authorUrl": "https://github.com/felt",
-  "author": "felt",
-  "title": "felt/mbtileserver; Basic Go server for mbtiles",
-  "licence": ""
-}
