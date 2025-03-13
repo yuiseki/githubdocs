@@ -8,7 +8,7 @@ const sleep = (msec: number) =>
 
 const urlsFile = await fs.readFile(
   "./public/data/github.com/list.txt",
-  "utf-8",
+  "utf-8"
 );
 const urls = urlsFile.split("\n");
 console.info(urls.length);
@@ -100,16 +100,16 @@ for await (const url of urls) {
 
     const metadataJson = JSON.stringify(metadata, null, 2);
 
-    await fs.mkdir(`./data/github.com/${path}/`, {
+    await fs.mkdir(`./public/data/github.com/${path}/`, {
       recursive: true,
     });
     await fs.writeFile(
       `./public/data/github.com/${path}/README.md`,
-      readMeContent,
+      readMeContent
     );
     await fs.writeFile(
       `./public/data/github.com/${path}/metadata.json`,
-      metadataJson,
+      metadataJson
     );
 
     console.log();
