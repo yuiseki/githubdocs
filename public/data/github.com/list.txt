@@ -105,52 +105,52 @@ https://github.com/facebook/prophet
 https://github.com/coin-or/pulp
 https://github.com/coin-or/python-mip
 https://github.com/HosamGen/GeoLLaVA
-  - https://github.com/MapEval/MapEval-Textual
-  - https://github.com/MapEval/MapEval-API
-  - https://github.com/MapEval/MapEval-Visual
-  - https://github.com/Teakinboyewa/SpatialAnalysisAgent
-  - https://github.com/kraina-ai/geospatial-code-llms-dataset
-  - https://github.com/Teakinboyewa/AutonomousGIS_GeodataRetrieverAgent
-  - https://github.com/MultimodalGeo/GeoText-1652
-  - https://github.com/ParthPK/CityGuessr
-  - https://github.com/chen-judge/MapGPT
-  - https://github.com/LukasHaas/PIGEON
-  - https://github.com/gladcolor/LLM-Find
-  - https://github.com/IBM/remote-sensing-image-retrieval
-  - https://github.com/yeyimilk/LLMGeo
-  - https://github.com/devashish-gupta/Geode
-  - https://github.com/mbzuai-oryx/GeoChat
-  - https://github.com/rohinmanvi/GeoLLM
-  - https://github.com/remyxai/VQASynth
-  - https://github.com/VicenteVivan/geo-clip
-  - https://github.com/microsoft/satclip
-  - https://github.com/angus-spence/loc2vec
-  - https://github.com/npupilab/CurriculumLoc
-  - https://github.com/knowledge-computing/geolm
-  - https://github.com/raphael-sch/OverpassNL
-  - https://github.com/geobrain-ai/geogalactica
-  - https://github.com/rowheat02/osm-gpt
-  - https://github.com/ViLab-UCSD/GeoNet
-  - https://github.com/ResponsibleAILab/Geo-Aware-LLM
-  - https://github.com/coolzhao/Geo-SAM
-  - https://github.com/davendw49/k2
-  - https://github.com/jonathan-roberts1/GPT4GEO
-  - https://github.com/developmentseed/llllm
-  - https://github.com/AI-team-UoA/GeoQuestions1089
-  - https://github.com/momaabna/QGPTAgent
-  - https://github.com/opengeos/segment-geospatial
-  - https://github.com/steveattewell/osm-ai-map
-  - https://github.com/earth-genome/ChatGeoPT
-  - https://github.com/KIOS-Research/QChatGPT
-  - https://github.com/K4TEL/geo-twitter
-  - https://github.com/g-luo/geolocation_via_guidebook_grounding
-  - https://github.com/knowledge-computing/spabert
-  - https://github.com/PhantomGrapes/MGeo
-  - https://github.com/ServiceNow/geo-bench
-  - https://github.com/google-research-datasets/mlg_evaldata
-  - https://github.com/tdavislab/TopoBERT
-  - https://github.com/gengchenmai/se-kge
-  - https://github.com/Living-with-machines/LwM_SIGSPATIAL2020_ToponymMatching
-  - https://github.com/geoai-lab/GeoAI2019Geoparser
-  - https://github.com/clulab/geonorm
-  - https://github.com/geoai-lab/EUPEG
+https://github.com/MapEval/MapEval-Textual
+https://github.com/MapEval/MapEval-API
+https://github.com/MapEval/MapEval-Visual
+https://github.com/Teakinboyewa/SpatialAnalysisAgent
+https://github.com/kraina-ai/geospatial-code-llms-dataset
+https://github.com/Teakinboyewa/AutonomousGIS_GeodataRetrieverAgent
+https://github.com/MultimodalGeo/GeoText-1652
+https://github.com/ParthPK/CityGuessr
+https://github.com/chen-judge/MapGPT
+https://github.com/LukasHaas/PIGEON
+https://github.com/gladcolor/LLM-Find
+https://github.com/IBM/remote-sensing-image-retrieval
+https://github.com/yeyimilk/LLMGeo
+https://github.com/devashish-gupta/Geode
+https://github.com/mbzuai-oryx/GeoChat
+https://github.com/rohinmanvi/GeoLLM
+https://github.com/remyxai/VQASynth
+https://github.com/VicenteVivan/geo-clip
+https://github.com/microsoft/satclip
+https://github.com/angus-spence/loc2vec
+https://github.com/npupilab/CurriculumLoc
+https://github.com/knowledge-computing/geolm
+https://github.com/raphael-sch/OverpassNL
+https://github.com/geobrain-ai/geogalactica
+https://github.com/rowheat02/osm-gpt
+https://github.com/ViLab-UCSD/GeoNet
+https://github.com/ResponsibleAILab/Geo-Aware-LLM
+https://github.com/coolzhao/Geo-SAM
+https://github.com/davendw49/k2
+https://github.com/jonathan-roberts1/GPT4GEO
+https://github.com/developmentseed/llllm
+https://github.com/AI-team-UoA/GeoQuestions1089
+https://github.com/momaabna/QGPTAgent
+https://github.com/opengeos/segment-geospatial
+https://github.com/steveattewell/osm-ai-map
+https://github.com/earth-genome/ChatGeoPT
+https://github.com/KIOS-Research/QChatGPT
+https://github.com/K4TEL/geo-twitter
+https://github.com/g-luo/geolocation_via_guidebook_grounding
+https://github.com/knowledge-computing/spabert
+https://github.com/PhantomGrapes/MGeo
+https://github.com/ServiceNow/geo-bench
+https://github.com/google-research-datasets/mlg_evaldata
+https://github.com/tdavislab/TopoBERT
+https://github.com/gengchenmai/se-kge
+https://github.com/Living-with-machines/LwM_SIGSPATIAL2020_ToponymMatching
+https://github.com/geoai-lab/GeoAI2019Geoparser
+https://github.com/clulab/geonorm
+https://github.com/geoai-lab/EUPEG
