@@ -1,0 +1,8 @@
+{
+  "name": "satclip",
+  "fullName": "microsoft/satclip",
+  "authorUrl": "https://github.com/microsoft",
+  "author": "microsoft",
+  "title": "microsoft/satclip; PyTorch implementation of SatCLIP",
+  "licence": ""
+}

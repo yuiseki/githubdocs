@@ -1,0 +1,8 @@
+{
+  "name": "Geo-SAM",
+  "fullName": "coolzhao/Geo-SAM",
+  "authorUrl": "https://github.com/coolzhao",
+  "author": "coolzhao",
+  "title": "coolzhao/Geo-SAM; A QGIS plugin tool using Segment Anything Model (SAM) to accelerate segmenting or delineating landforms in geospatial raster images.",
+  "licence": ""
+}

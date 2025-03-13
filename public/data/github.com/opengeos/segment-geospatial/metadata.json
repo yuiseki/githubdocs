@@ -1,0 +1,8 @@
+{
+  "name": "segment-geospatial",
+  "fullName": "opengeos/segment-geospatial",
+  "authorUrl": "https://github.com/opengeos",
+  "author": "opengeos",
+  "title": "opengeos/segment-geospatial; A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+  "licence": ""
+}
