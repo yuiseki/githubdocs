@@ -19,7 +19,7 @@
     "react-dom": "^19.0.0",
     "swr": "^2.2.4",
     "ts-node": "^10.9.1",
-    "typescript": "5.7.2"
+    "typescript": "5.8.3"
   },
   "devDependencies": {
     "@types/node": "22.15.2",
